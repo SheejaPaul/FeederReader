@@ -1,6 +1,14 @@
 # FeederReader
 Your daily news digest
 
+- [Screenshots](#screenshots)
+- [Features](#features)
+- [Requirements](#requirements)
+
+## Screenshots
+
+<img width="898" alt="screen shot 2017-12-14 at 3 19 15 pm" src="https://user-images.githubusercontent.com/31255999/34019128-40a9a91a-e0e2-11e7-8cda-7604ec5e9c10.png">
+
 ## Features
 
 - [x] Bold design with smooth user interactions
@@ -14,7 +22,7 @@ Your daily news digest
 - [x] Used Auto Layout and custom tableview pattern
 
 
-# API's used:
+## API's used:
 
 - [Newyork Times: Top Stories](https://developer.nytimes.com/top_stories_v2.json)
   The Top Stories API returns a list of articles and associated images currently on the specified section
