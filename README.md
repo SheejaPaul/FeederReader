@@ -35,3 +35,6 @@ Your daily news digest
 - iOS 9.0+ 
 - Xcode 11+
 - Swift 4+
+
+
+** This App ranked #1 out of 15 in the the class (General Assembly iOS immersive SF). 
