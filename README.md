@@ -24,13 +24,13 @@ Your daily news digest
 
 ## API's used:
 
-- [Newyork Times: Top Stories](https://developer.nytimes.com/top_stories_v2.json)
+- [New York Times: Top Stories](https://developer.nytimes.com/top_stories_v2.json)
   The Top Stories API returns a list of articles and associated images currently on the specified section
   
-- [Newyork Times: Article Search](https://developer.nytimes.com/article_search_v2.json)
-  The Archive API provides lists of NYT articles by month going back to 1851. Simply pass in the year and month you want and it returns a JSON object with all articles for that month.
+- [New York Times: Article Search](https://developer.nytimes.com/article_search_v2.json)
+  The Article Search API provides lists of NYT articles by month going back to 1851. Simply pass in the year and month you want and it returns a JSON object with all articles for that month.
   
-  ## Requirements
+## Requirements
 
 - iOS 9.0+ 
 - Xcode 11+
