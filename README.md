@@ -1,6 +1,13 @@
 # FeederReader
 Your daily news digest
 
+![Xcode 8.2+](https://img.shields.io/badge/Xcode-9.0%2B-blue.svg)
+![iOS 8.0+](https://img.shields.io/badge/iOS-11.0%2B-blue.svg)
+![Swift 3.0+](https://img.shields.io/badge/Swift-3.0%2B-orange.svg)
+![Build Status](https://img.shields.io/badge/Build-Passing%2B-green.svg)
+![Platform](https://img.shields.io/badge/Platform-iOS%2B-lightgray.svg)
+
+
 - [Screenshots](#screenshots)
 - [Features](#features)
 - [Requirements](#requirements)
