@@ -37,11 +37,5 @@ Your daily news digest
 - [New York Times: Article Search](https://developer.nytimes.com/article_search_v2.json)
   The Article Search API provides lists of NYT articles by month going back to 1851. Simply pass in the year and month you want and it returns a JSON object with all articles for that month.
   
-## Requirements
-
-- iOS 9.0+ 
-- Xcode 11+
-- Swift 4+
-
 
 ** This App ranked #1 out of 15 in the the class (General Assembly iOS immersive SF). 
